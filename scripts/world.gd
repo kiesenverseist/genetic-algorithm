@@ -1,8 +1,6 @@
 extends Node2D
 
-var cell_pk = preload("../cell.tscn")
-
-
+var cell_pk = preload("../node-scenes/cell.tscn")
 
 func _ready():
 	
